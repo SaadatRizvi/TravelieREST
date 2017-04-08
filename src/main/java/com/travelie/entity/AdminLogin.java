@@ -70,11 +70,5 @@ public class AdminLogin {
 	}
 
 
-
-
-
-	
-	
-	
-	
+		
 }
